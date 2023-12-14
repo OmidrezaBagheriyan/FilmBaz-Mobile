@@ -38,11 +38,11 @@ android {
 dependencies {
 
     // Base dependencies
-    val coreVersion = "1.10.1"
+    val coreVersion = "1.12.0"
     implementation("androidx.core:core-ktx:$coreVersion")
     val appcompatVersion = "1.6.1"
     implementation("androidx.appcompat:appcompat:$appcompatVersion")
-    val materialVersion = "1.9.0"
+    val materialVersion = "1.11.0"
     implementation("com.google.android.material:material:$materialVersion")
     val constraintLayoutVersion = "2.1.4"
     implementation("androidx.constraintlayout:constraintlayout:$constraintLayoutVersion")
